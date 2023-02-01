@@ -1,4 +1,4 @@
-# Ali-Baba-Hackathon---Tarmeez-Team---Drive---Learn
+# Ali-Baba-Hackathon | Tarmeez-Team | Drive & Learn Project
 This project contains both: backend &amp; mobile application source code of our project (Drive &amp; Learn) which represents our participation in Ali Baba Hackathon (2023)
 
 ![CleanShot 2023-02-01 at 12 10 39](https://user-images.githubusercontent.com/29100623/216000070-7f5965c4-d977-4997-a29e-24802d1d9ac5.png)
@@ -14,6 +14,6 @@ This project contains both: backend &amp; mobile application source code of our 
 
 
 # Download The App
-## App Store: 
+**App Store:**
 https://apps.apple.com/sa/app/talk-2-learn/id1668562216
 ![CleanShot 2023-02-01 at 12 14 11](https://user-images.githubusercontent.com/29100623/216000828-86d2abab-ee0f-4296-832f-21a27e4f7bb7.png)
