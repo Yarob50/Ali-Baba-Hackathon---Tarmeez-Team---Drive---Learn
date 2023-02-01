@@ -10,7 +10,8 @@ This project contains both: backend &amp; mobile application source code of our 
 ![CleanShot 2023-02-01 at 12 12 08](https://user-images.githubusercontent.com/29100623/216000395-4c2d5db9-4c05-4d49-b113-3ab482aeb5bb.png)
 
 # Infra Structure!
-[CleanShot 2023-02-01 at 12 12 57](https://user-images.githubusercontent.com/29100623/216000561-26e04a50-56fe-4054-b3e7-285162bae451.png)
+![CleanShot 2023-02-01 at 12 16 45](https://user-images.githubusercontent.com/29100623/216001401-4b09afe8-cfde-4677-97b7-9d970d4788c1.png)
+
 
 # Download The App
 ## App Store: 
