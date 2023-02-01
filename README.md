@@ -9,7 +9,7 @@ This project contains both: backend &amp; mobile application source code of our 
 # Talk With Chat GPT
 ![CleanShot 2023-02-01 at 12 12 08](https://user-images.githubusercontent.com/29100623/216000395-4c2d5db9-4c05-4d49-b113-3ab482aeb5bb.png)
 
-# Infra Structure!
+# Infrastructure!
 ![CleanShot 2023-02-01 at 12 16 45](https://user-images.githubusercontent.com/29100623/216001401-4b09afe8-cfde-4677-97b7-9d970d4788c1.png)
 
 
